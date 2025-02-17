@@ -1,0 +1,23 @@
+/*desktop*/
+#content {
+width: 50%;
+margin: auto;
+line-height: 1.5em;
+font-size: 1.5em;
+}
+
+/*phone*/
+@media (orientation: portrait){
+    #content {width:100%;}
+}
+
+/* do this for all the ids. This one nav-bar (all the websites + pages)*/ 
+#nav-bar {
+    display: flex;
+    flex-direction: row;
+    color: blue;
+}
+
+.nav-button{
+    margin: auto; /* use to make spacing even */
+}
