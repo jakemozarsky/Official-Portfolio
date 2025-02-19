@@ -33,4 +33,5 @@ img {
     margin: auto;
     width: 75%;
     height: auto;
+    display: block;
 }
