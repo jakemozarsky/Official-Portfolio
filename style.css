@@ -19,6 +19,7 @@ color: black;
     color: black;
     background-color: darkturquoise;
 }
-.nav-button{
+.nav-button a {
+    color: black;
     margin: auto; /* use to make spacing even */
 }
