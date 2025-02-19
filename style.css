@@ -17,10 +17,13 @@ color: black;
     display: flex;
     flex-direction: row;
     color: black;
-    background-color: darkturquoise;
+    background-color: darkblue;
+}
+
+.nav-button{
     margin: auto; 
 }
 .nav-button a {
-    color: black;
+    color: whitesmoke;
     /* use to make spacing even */
 }
