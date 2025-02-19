@@ -18,8 +18,9 @@ color: black;
     flex-direction: row;
     color: black;
     background-color: darkturquoise;
+    margin: auto; 
 }
 .nav-button a {
     color: black;
-    margin: auto; /* use to make spacing even */
+    /* use to make spacing even */
 }
