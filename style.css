@@ -1,9 +1,10 @@
 /*desktop*/
 #content {
-width: 50%;
+width: 75%;
 margin: auto;
 line-height: 1.5em;
 font-size: 1.5em;
+color: black;
 }
 
 /*phone*/
@@ -15,9 +16,9 @@ font-size: 1.5em;
 #nav-bar {
     display: flex;
     flex-direction: row;
-    color: blue;
+    color: black;
+    background-color: darkturquoise;
 }
-
 .nav-button{
     margin: auto; /* use to make spacing even */
 }
