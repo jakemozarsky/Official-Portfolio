@@ -20,9 +20,8 @@ color: black;
     background-color: darkblue;
 }
 
-
-div{
-    display: flex; 
+section{
+    display: flex;
 }
 
 .nav-button{
