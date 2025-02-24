@@ -1,3 +1,7 @@
+body{
+    background-color: lightblue;
+}
+
 /*desktop*/
 #content {
 width: 90%;
@@ -22,6 +26,8 @@ color: black;
 
 section{
     display: flex;
+    flex-direction: row;
+    border-color: blue;
 }
 
 .nav-button{
