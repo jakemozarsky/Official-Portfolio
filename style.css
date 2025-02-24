@@ -20,6 +20,11 @@ color: black;
     background-color: darkblue;
 }
 
+
+div{
+    display: flex; 
+}
+
 .nav-button{
     margin: auto; 
 }
