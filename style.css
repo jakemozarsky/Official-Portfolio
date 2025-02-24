@@ -30,6 +30,15 @@ section{
     border-color: blue;
 }
 
+.images{
+    width: 100%;
+    margin: auto;
+}
+
+.youtube {
+    width: 150%;
+}
+
 .nav-button{
     margin: auto; 
 }
