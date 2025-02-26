@@ -58,6 +58,11 @@ section{
     /* use to make spacing even */
 }
 
+.Sotoheadline{
+    color:blue;
+    text-decoration: none;
+}
+
 /* default image settings*/
 img {
     margin: auto;
