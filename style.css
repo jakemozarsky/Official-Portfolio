@@ -11,6 +11,7 @@ font-size: 1.5em;
 color: black;
 }
 
+/* media query */
 /*phone*/
 @media (orientation: portrait){
     #content {width:100%;}
@@ -35,6 +36,7 @@ section{
     margin: auto;
 }
 
+/* images used for favorites*/
 .favorites{
     width: 100%
 }
@@ -56,6 +58,7 @@ section{
     /* use to make spacing even */
 }
 
+/* default image settings*/
 img {
     margin: auto;
     width: 75%;
