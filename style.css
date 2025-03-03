@@ -63,6 +63,11 @@ section{
     text-decoration: none;
 }
 
+.Sotohomer{
+    display: block;
+    margin: auto;
+}
+
 /* default image settings*/
 img {
     margin: auto;
