@@ -36,6 +36,9 @@ section{
     margin: auto;
 }
 
+.image_banners{
+    height:auto;
+}
 /* images used for favorites*/
 .favorites{
     width: 100%
@@ -63,8 +66,8 @@ section{
     text-decoration: none;
 }
 
-.Sotohomer{
-    display: block;
+iframe{
+    display:block;
     margin: auto;
 }
 
